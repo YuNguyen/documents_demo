@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to my DemoAPP related QA APIs"
+  contactDetails:
+    name: "littleKil - Product OWNER"
+    email: "littleKil@gmail.com"
+  onCallSupport:
+    -0987654321
