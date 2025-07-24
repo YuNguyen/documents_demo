@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to my DemoAPP related QA APIs"
   contactDetails:
     name: "littleKil - Product OWNER"
-    email: "littleKil@gmail.com"
+    email: "{cipher}570e2db2aa15fdc1336868f6a2ab8e118f99797c4c72e2aa6a7b1389bf537f23407dce85a1c237faebb2793bbb983ada"
   onCallSupport:
     -0987654321
