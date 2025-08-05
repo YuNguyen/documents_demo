@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to my DemoAPP related QA APIs"
+  message: "Welcome to my DemoAPP related production test webhook APIs"
   contactDetails:
     name: "littleKil - Product OWNER"
     email: "{cipher}570e2db2aa15fdc1336868f6a2ab8e118f99797c4c72e2aa6a7b1389bf537f23407dce85a1c237faebb2793bbb983ada"
