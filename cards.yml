@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to my DemoAPP related QA APIs"
+  message: "Welcome to my DemoAPP related webhooh APIs"
   contactDetails:
-    name: "littleKil - DEV"
+    name: "littleKil - DEV-test webhook"
     email: "littleKil@gmail.com"
   onCallSupport:
     -0987654321
