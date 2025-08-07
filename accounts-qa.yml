@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to my DemoAPP related QA APIs"
+  message: "Welcome to my DemoAPP related QA-webhook account test APIs"
   contactDetails:
     name: "littleKil - QA Lead"
     email: "littleKil@gmail.com"
